@@ -102,7 +102,27 @@
         "warning.border": "#1F1F1FFF",
         "element.background": "#1B1B1BFF",
         "editor.gutter.background": "#1B1B1BFF",
-        "editor.line_number": ""
+        "editor.line_number": "",
+        "terminal.ansi.black": "#000000FF",
+        "terminal.ansi.bright_red": "#FE0100FF",
+        "terminal.ansi.bright_green": "#33FF00FF",
+        "terminal.ansi.bright_yellow": "#FEFF00FF",
+        "terminal.ansi.bright_blue": "#0066FFFF",
+        "terminal.ansi.bright_magenta": "#CC00FFFF",
+        "terminal.ansi.bright_cyan": "#00FFFFFF",
+        "terminal.ansi.bright_white": "#FFFFFFFF",
+        "terminal.ansi.white": "#D0D0D0FF",
+        "terminal.background": "#000000FF",
+        "terminal.foreground": "#FFFFFFFF",
+        "terminal.ansi.blue": "#0066FFFF",
+        "terminal.ansi.cyan": "#00FFFFFF",
+        "terminal.ansi.green": "#33FF00FF",
+        "terminal.ansi.magenta": "#CC00FFFF",
+        "terminal.ansi.red": "#FE0100FF",
+        "terminal.ansi.yellow": "#FEFF00FF",
+        "terminal.ansi.bright_black": "#808080FF",
+        "terminal.bright_foreground": "#FFFFFFFF",
+        "terminal.dim_foreground": "#FFFFFFFF"
       }
     }
   ]
