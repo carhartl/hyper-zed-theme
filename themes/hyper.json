@@ -130,7 +130,8 @@
         "terminal.ansi.dim_blue": "#0066FFFF",
         "terminal.ansi.dim_black": "#000000FF",
         "terminal.ansi.dim_magenta": "#CC00FFFF",
-        "terminal.ansi.dim_white": "#D0D0D0FF"
+        "terminal.ansi.dim_white": "#D0D0D0FF",
+        "search.match_background": "#B8B8B8FF"
       }
     }
   ]
