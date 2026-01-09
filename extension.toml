@@ -1,0 +1,7 @@
+id = "hyper"
+name = "Hyper theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Klaus Hartl <gebuesch.haeppchen1k@icloud.com>"]
+description = "Theme based on what Hyper terminal once shipped with"
+repository = "https://github.com/carhartl/hyper-zed-theme"
