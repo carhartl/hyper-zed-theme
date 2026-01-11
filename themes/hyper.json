@@ -42,6 +42,11 @@
           "constant": {
             "color": "#2FED00FF"
           },
+          "constant.comment.todo": {
+            "color": "#FEFF00CC",
+            "font_style": "italic",
+            "font_weight": 600
+          },
           "constructor": {
             "color": "#BD00EDFF"
           },
@@ -64,8 +69,18 @@
           "number": {
             "color": "#2FED00FF"
           },
+          "property.comment.error": {
+            "color": "#FE0100CC",
+            "font_style": "italic",
+            "font_weight": 600
+          },
           "string": {
             "color": "#2FED00FF"
+          },
+          "string.comment.info": {
+            "color": "#B8B8B8FF",
+            "font_style": "italic",
+            "font_weight": 600
           },
           "title": {
             "font_weight": 600
