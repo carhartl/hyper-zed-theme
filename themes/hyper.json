@@ -32,34 +32,46 @@
         "success.background": "#1B1B1BFF",
         "success.border": "#1F1F1FFF",
         "syntax": {
-          "attribute": {
-            "color": "#B8B8B8FF"
-          },
           "boolean": {
-            "color": "#7CFF5BFF"
+            "color": "#2FED00FF"
           },
           "comment": {
             "color": "#B8B8B8FF",
             "font_style": "italic"
           },
+          "constant": {
+            "color": "#2FED00FF"
+          },
           "constructor": {
-            "color": "#DA47FFFF"
+            "color": "#BD00EDFF"
           },
-          "function": {
-            "color": "#00F5F5FF"
-          },
-          "keyword": {
-            "color": "#00F5F5FF",
+          "emphasis": {
             "font_weight": 600
           },
+          "emphasis.strong": {
+            "font_style": "italic",
+            "font_weight": 600
+          },
+          "enum": {
+            "color": "#00DBDBFF"
+          },
+          "function": {
+            "color": "#BD00EDFF"
+          },
+          "keyword": {
+            "color": "#00EDEDFF"
+          },
           "number": {
-            "color": "#7CFF5BFF"
+            "color": "#2FED00FF"
           },
           "string": {
-            "color": "#7CFF5BFF"
+            "color": "#2FED00FF"
+          },
+          "title": {
+            "font_weight": 600
           },
           "type": {
-            "color": "#00F5F5FF"
+            "color": "#BD00EDFF"
           }
         },
         "tab.inactive_background": "#1B1B1BFF",
