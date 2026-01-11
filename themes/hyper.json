@@ -75,6 +75,7 @@
           }
         },
         "tab.inactive_background": "#1B1B1BFF",
+        "terminal.ansi.background": "#000000FF",
         "terminal.ansi.black": "#000000FF",
         "terminal.ansi.blue": "#0066FFFF",
         "terminal.ansi.bright_black": "#808080FF",
