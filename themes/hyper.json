@@ -27,7 +27,9 @@
         "info": "#FEFF00FF",
         "info.background": "#1B1B1BFF",
         "info.border": "#1F1F1FFF",
+        "panel.background": "#121212FF",
         "search.match_background": "#B8B8B8FF",
+        "status_bar.background": "#121212FF",
         "success": "#33FF00FF",
         "success.background": "#1B1B1BFF",
         "success.border": "#1F1F1FFF",
@@ -90,6 +92,7 @@
           }
         },
         "tab.inactive_background": "#1B1B1BFF",
+        "tab_bar.background": "#1B1B1BFF",
         "terminal.ansi.background": "#000000FF",
         "terminal.ansi.black": "#000000FF",
         "terminal.ansi.blue": "#0066FFFF",
@@ -120,6 +123,7 @@
         "terminal.dim_foreground": "#FFFFFFFF",
         "terminal.foreground": "#FFFFFFFF",
         "text": "#E0E0E0FF",
+        "title_bar.background": "#121212FF",
         "warning": "#FEFF00FF",
         "warning.background": "#1B1B1BFF",
         "warning.border": "#1F1F1FFF"
