@@ -84,6 +84,9 @@
             "font_style": "italic",
             "font_weight": 600
           },
+          "tag": {
+            "color": "#00EDEDFF"
+          },
           "title": {
             "font_weight": 600
           },
