@@ -16,6 +16,7 @@
         "editor.wrap_guide": "#B8B8B844",
         "element.active": "#B8B8B844",
         "element.background": "#1B1B1BFF",
+        "element.disabled": "#B8B8B888",
         "element.hover": "#B8B8B844",
         "element.selected": "#B8B8B844",
         "error": "#FE0100FF",
