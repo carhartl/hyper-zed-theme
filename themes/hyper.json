@@ -51,7 +51,7 @@
             "font_weight": 600
           },
           "constructor": {
-            "color": "#BD00EDFF"
+            "color": "#005FEDFF"
           },
           "emphasis": {
             "font_weight": 600
@@ -64,7 +64,7 @@
             "color": "#00EDEDFF"
           },
           "function": {
-            "color": "#BD00EDFF"
+            "color": "#005FEDFF"
           },
           "keyword": {
             "color": "#00EDEDFF"
@@ -92,7 +92,7 @@
             "font_weight": 600
           },
           "type": {
-            "color": "#BD00EDFF"
+            "color": "#00EDEDFF"
           }
         },
         "tab.inactive_background": "#1B1B1BFF",
