@@ -54,7 +54,7 @@
             "font_weight": 600
           },
           "constructor": {
-            "color": "#005FEDFF"
+            "color": "#CC00FFFF"
           },
           "emphasis": {
             "font_weight": 600
@@ -67,7 +67,7 @@
             "color": "#00EDEDFF"
           },
           "function": {
-            "color": "#005FEDFF"
+            "color": "#CC00FFFF"
           },
           "keyword": {
             "color": "#00EDEDFF"
