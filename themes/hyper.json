@@ -12,6 +12,8 @@
         "border.transparent": "#00000000",
         "border.variant": "#1F1F1FFF",
         "editor.active_line.background": "#B8B8B844",
+        "editor.document_highlight.read_background": "#B8B8B844",
+        "editor.document_highlight.write_background": "#B8B8B844",
         "editor.gutter.background": "#1B1B1BFF",
         "editor.wrap_guide": "#B8B8B844",
         "element.active": "#B8B8B844",
