@@ -6,6 +6,14 @@
       "appearance": "dark",
       "name": "Hyper",
       "style": {
+        "accents": [
+          "#00FFFF",
+          "#CC00FF",
+          "#0066FF",
+          "#FEFF00",
+          "#33FF00",
+          "#FE0100"
+        ],
         "background": "#121212FF",
         "background.appearance": "opaque",
         "border": "#1F1F1FFF",
